@@ -1,0 +1,15 @@
+{
+    "name": "andriimurashkin/kohana-lang-writer",
+    "description": "Writes translation to lang file",
+    "type": "kohana-module",
+    "authors": [
+        {
+            "name": "Andrey Murashkin",
+            "email": "andrey@phpteam.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
